@@ -1,0 +1,22 @@
+{
+  "name": "cordova_plugin_math_calculator",
+  "version": "0.0.1",
+  "description": "mathcalculator",
+  "cordova": {
+    "id": "cordova_plugin_math_calculator",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrdev77/Cordova-plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Raja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrdev77/Cordova-plugin/issues"
+  },
+  "homepage": "https://github.com/rrdev77/Cordova-plugin#readme"
+}
